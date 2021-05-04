@@ -1,11 +1,14 @@
-Grundförfattning HSLF-FS 2021:2 med senaste ändringsförfattning 2021:35
+Införda förslag i grundförfattningen, kursiverat   
 
-1 § I dessa föreskrifter finns kompletterande bestämmelser om sådana fritids- och kulturverksamheter samt handelsplatser, som avses i lagen (2021:4) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19 och förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19. Dessa föreskrifter gäller inte för en sådan allmän sammankomst eller offentlig tillställning som omfattas av ordningslagen (1993:1617).
+1 § I dessa föreskrifter finns kompletterande bestämmelser om sådana allmänna sammankomster och offentliga tillställningar, platser för fritids- och kulturverksamhet samt handelsplatser, som avses i lagen (2021:4) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19 och förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19.
 
 1 a § Med ett anläggningsområde avses i dessa föreskrifter samtliga verksamhetslokaler inomhus samt de avgränsade områden och utrymmen utomhus som den som driver en nöjespark, djurpark, temapark eller liknande anläggning disponerar.
 
-2 § Den som bedriver sådan verksamhet som anges i 1 § ska, utöver vad som framgår av förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19
+1 b § Bestämmelser om allmänna sammankomster och offentliga tillställningar finns i 8-12 §§ och tillhörande allmänna råd samt i de allmänna råden till förordningen om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19 under rubriken Allmänna sammankomster och offentliga tillställningar.
+För stadigvarande tivolinöjen och tivolianordningar i nöjesparker, djurparker, temaparker och liknande anläggningar tillämpas istället bestämmelserna i 2, 4 och 7 §§ och tillhörande allmänna råd samt i de allmänna råden till samma förordning under rubriken Fritids- och kulturverksamhet.
+För marknader tillämpas istället 2 a § och tillhörande allmänna råd samt allmänna råd till samma förordning för marknader.
 
+2 § Den som bedriver verksamhet på en plats för fritids- eller kulturverksamhet eller på en handelsplats ska, utöver vad som framgår av förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19
 1. beräkna det maximala antalet kunder eller besökare som samtidigt får vistas i verksamhetens lokaler inomhus eller inom ett anläggningsområde (maxantalet),
 2. skriftligt dokumentera maxantalet och hur beräkningen enligt 1 har gjorts,
 3. tydligt anslå maxantalet,
@@ -16,33 +19,69 @@ Grundförfattning HSLF-FS 2021:2 med senaste ändringsförfattning 2021:35
 8. följa upp de vidtagna smittskyddsåtgärderna,
 9. säkerställa att personalen får adekvat information om hygienåtgärder för att förhindra smitta, och
 10. hålla sig informerad om särskilda rekommendationer från Folkhälsomyndigheten och den regionala smittskyddsläkaren.
-
 Åtgärderna enligt 1-4 ska göras för varje avgränsat utrymme i verksamhetslokaler inomhus där människor uppehåller sig. Bestämmelserna i 1-4 gäller inte för gallerior och köpcentrum. Bestämmelserna i 1-4 ska inte tillämpas under den tid som en verksamhetslokal uteslutande används för sådan undervisning som avses i skollagen (2010:800).
 
-Allmänna råd
-Ett sätt att säkerställa att antalet personer i lokalen inte överskrids är att räkna antalet in- och utpasserande kunder eller besökare.
-Informationsmaterial om hur smittspridning kan undvikas finns på Folkhälsomyndighetens webbplats.
+Marknader
+2 a § Den som ansvarar för att en marknad hålls ska, utöver vad som framgår av förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19, även
+1. informera sina besökare om hur smittspridning kan undvikas,
+1. utforma gångar mellan bord eller stånd så att trängsel undviks,
+2. se till att försäljarna på marknaden blir anvisad en plats så att trängseln kan minimeras,
+3. erbjuda besökare möjlighet att tvätta händerna med tvål och vatten eller erbjuda handdesinfektion,
+4. skriftligt dokumentera de övriga smittskyddsåtgärder som har vidtagits,
+5. följa upp de vidtagna smittskyddsåtgärderna, och
+6. hålla sig informerad om särskilda rekommendationer från Folkhälsomyndigheten och den regionala smittskyddsläkaren.
 
-3 § Maxantalet enligt 2 § ska beräknas på sådant sätt att varje kund eller besökare, inom varje avgränsat utrymme inomhus, ska kunna disponera minst 10 kvadratmeter av den tillgängliga ytan.
+Allmänt råd
+Ett sätt att säkerställa att trängsel undviks på en marknad utomhus är att placera borden eller stånden med ett avstånd om minst 2 meter i sidled samt framåt och bakåt.
+
+Marknad inomhus
+2 b § Den som ansvarar för en marknad inomhus ska utöver vad som framgår i 2a §
+1. beräkna det maximala antalet besökare som samtidigt får vistas i en lokal eller
+annat utrymme på marknaden,
+2. skriftligt dokumentera maxantalet och hur beräkningen enligt 1 har gjorts,
+3. tydligt anslå maxantalet, och
+4. säkerställa att maxantalet inte överskrids.
+Åtgärderna enligt 1-4 ska göras för varje avgränsat utrymme där människor uppehåller sig.
+
+3 § Maxantalet enligt 2 § och 2 b § 1 ska beräknas på sådant sätt att varje kund eller besökare, inom varje avgränsat utrymme inomhus, ska kunna disponera minst 10 kvadratmeter av den tillgängliga ytan.
 Maxantalet för verksamhetens totala yta får aldrig överstiga 500 personer.
 
-4 § För nöjesparker, djurparker, temaparker eller liknande anläggningar gäller istället för 3 § att beräkning ska ske på sådant sätt att varje besökare inom anläggningsområdet ska kunna disponera minst 20 kvadratmeter av den tillgängliga ytan.
-5 § Sådana handelsplatser som avses i 1 § ska vidta lämpliga åtgärder för att sällskap med fler än 1 person inte besöker handelsplatsen samtidigt. Detta gäller dock inte barn eller andra personer som är i behov av stöd. Åtgärderna ska dokumenteras och följas upp enligt vad som anges i 2 § 7 och 8. *
+Allmänna sammankomster och offentliga tillställningar
+8 § Den som anordnar en allmän sammankomst eller en offentlig tillställning i en lokal, på ett avgränsat område eller utrymme som anordnaren disponerar ska, utöver vad som framgår av förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19
+1. informera deltagare eller idrottsutövare om hur smittspridning kan undvikas,
+2. erbjuda deltagare eller idrottsutövare möjlighet att tvätta händerna med tvål och vatten eller erbjuda handdesinfektion,
+3. säkerställa att personalen eller funktionärer får adekvat information om hygienåtgärder för att förhindra smitta,
+4. skriftligt dokumentera de övriga smittskyddsåtgärder som verksamheten har vidtagit,
+5. följa upp de vidtagna smittskyddsåtgärderna, och
+6. hålla sig informerad om särskilda rekommendationer från Folkhälsomyndigheten och den regionala smittskyddsläkaren.
+
+Utan anvisad sittplats inomhus och utomhus
+9 § Den som anordnar en allmän sammankomst eller en offentlig tillställning utan anvisad sittplats i en lokal, på ett avgränsat område eller utrymme som anordnaren disponerar ska
+1. beräkna det maximala antalet deltagare som samtidigt får vistas i lokalen, på det avgränsade området eller utrymmet,
+2. skriftligt dokumentera maxantalet och hur beräkningen enligt 1 har gjorts,
+3. tydligt anslå maxantalet,
+4. säkerställa att maxantalet inte överskrids.
+10 § Maxantalet enligt 9 § ska beräknas på sådant sätt att varje deltagare inom varje avgränsat utrymme inomhus, ska kunna disponera minst 10 kvadratmeter av den tillgängliga ytan.
+Maxantalet på ett avgränsat område eller utrymme utomhus ska beräknas på ett sådant sätt att varje deltagare inom området eller utrymmet ska kunna disponera minst 5 kvadratmeter av den tillgängliga ytan.
+
+Anvisad sittplats inomhus och utomhus
+11 § Den som anordnar en allmän sammankomst eller en offentlig tillställning med en anvisad sittplats i en lokal, på ett avgränsat område eller utrymme som anordnaren disponerar ska utöver 8 § se till att
+1. sällskap ska kunna hålla ett avstånd om minst 1 meter i sidled samt framåt och bakåt från andra sällskap, och
+2. antalet deltagare i ett och samma sällskap uppgår till högst fyra personer. Om ett sällskap uppgår till fler än fyra deltagare ska den som anordnar sammankomsten eller tillställningen dela upp sällskapet med högst fyra deltagare i varje.
+
+Anvisad sittplats utomhus
+12 § Antalet deltagare som samtidigt besöker en allmän sammankomst eller offentlig tillställning som arrangeras på ett avgränsat område eller utrymme utomhus som anordnaren disponerar får högst utgöra 10 procent av den publikkapacitet som ryms på permanenta sittplatser.
+Oavsett kravet i första stycket får dock antalet deltagare alltid uppgå till 100 under förutsättning att anordnaren uppfyller de krav som finns i 11 §.
+Motionslopp och liknande tävlingsform
+13 § För den som anordnar en idrottstävling utomhus i form av ett motionslopp eller liknande gäller utöver 8 § följande bestämmelser:
+1. Dela upp idrottsutövarna i mindre startgrupper med olika starttider.
+2. Start- och målområdet ska vara tydligt avgränsat.
+3. Enbart idrottsutövare och funktionärer får befinna sig i start- och målområdet.
 
 Allmänna råd
-Sådana lämpliga åtgärder som anges i 5 § kan exempelvis vara att - aktivt informera och uppmana besökare och kunder att besöka handelsplatsen ensamma, och - verka för att sällskap med fler än 1 person delas upp, när det är möjligt.
-6 § Gallerior, köpcentrum och varuhus ska spärra av eller ta bort möblemang och utrustning på inomhustorg och andra liknande områden där människor samlas. Första stycket gäller inte enstaka sittplatser för vila, hygienutrymmen eller andra liknande inrättningar.
+Anordnaren bör uppmana idrottsutövarna att hålla avstånd till varandra under tävlingen.
 
-7 § Den som bedriver verksamhet som har en tivolianordning eller liknande attraktioner ska vidta åtgärder för att undvika trängsel i dessa.
-
-Allmänna råd
-Sådana åtgärder kan till exempel vara att
-− sällskap kan kliva i och ur åkattraktionen med avstånd till andra sällskap,
-− sällskap har möjlighet att hålla ett avstånd på minst en meter i sidled samt framåt och bakåt från andra sällskap i åkattraktionen,
-− undvika placering av sällskap mitt emot varandra i åkattraktionen om avståndet är mindre än två meter, och
-− sällskap i inomhusattraktioner begränsas till högst fyra personer.
-
-Allmänna råd till 4 kap. 1 och 2 §§ och 5 kap. 1 § förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19
+Allmänna råd till 3 kap. 3 §, 4 kap. 1 och 2 §§ och 5 kap. 1 § förordningen (2021:8) om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19
 Fritids- och kulturverksamheter samt handelsplatser
 Trängsel kan undvikas genom att
 1. anvisa besökare till en särskilt angiven in- eller utgång,
@@ -60,3 +99,20 @@ Utöver vad som anges ovan kan trängsel även undvikas genom att
 3. åtgärder vidtas för att förhindra att spontana folksamlingar uppstår, och
 4. personal på plats vägleder besökare.
 
+Marknader
+Trängsel kan undvikas genom att
+1.låta marknaden pågå under flera dagar,
+2.informera besökare om att handla ensamma om man inte handlar med personer som har behov av stöd eller barn,
+3.anvisa i vilken riktning besökare bör förflytta sig, och
+4.personer på plats vägleder besökare för att det ska vara en jämn genomströmning och förhindra folksamlingar.
+
+Allmänna sammankomster och offentliga tillställningar
+Trängsel kan undvikas genom att
+1.åtgärder vidtas för att sprida ut deltagares ankomsttid,
+2.anordnaren av en sammankomst eller tillställning som pågår under flera dagar, exempelvis en mässa, kan informera deltagare om vilka dagar och tider det är mindre risk för trängsel,
+3.anvisa deltagare till olika och särskilt angivna in- eller utgångar,
+4.ta fram alternativa lösningar till fysiska köer,
+5.anvisa vilket avstånd som deltagare bör hålla till varandra i en lokal, på det avgränsade området eller utrymmet som anordnaren disponerar och vid köer, t.ex. genom markeringar på golvet eller marken,
+6.anvisa i vilken riktning som deltagarna bör förflytta sig,
+7.sätta upp avgränsningar för olika sällskap att vistas i som t.ex. staketfållor eller rep, och
+8.personal på plats vägleder deltagarna för att det ska vara en jämn genomströmning och förhindra folksamlingar i t.ex. en foajé och liknande utrymmen.
